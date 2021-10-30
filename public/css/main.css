@@ -687,6 +687,9 @@ video {
 .w-full {
 	width: 100%;
 }
+.w-52 {
+	width: 13rem;
+}
 .w-5\/6 {
 	width: 83.333333%;
 }
@@ -1194,6 +1197,11 @@ video {
 
 	.xsm\:w-full {
 		width: 100%;
+	}
+
+	.xsm\:text-xl {
+		font-size: 1.25rem;
+		line-height: 1.75rem;
 	}
 
 	.xsm\:text-3xl {
