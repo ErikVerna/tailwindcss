@@ -1203,6 +1203,10 @@ video {
 		width: 100%;
 	}
 
+	.xsm\:w-52 {
+		width: 13rem;
+	}
+
 	.xsm\:text-xl {
 		font-size: 1.25rem;
 		line-height: 1.75rem;
