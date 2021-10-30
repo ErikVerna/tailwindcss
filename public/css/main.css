@@ -1195,6 +1195,10 @@ video {
 
 @media (min-width: 320px) {
 
+	.xsm\:mr-12 {
+		margin-right: 3rem;
+	}
+
 	.xsm\:w-full {
 		width: 100%;
 	}
